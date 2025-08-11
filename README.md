@@ -1,6 +1,6 @@
 # Descrição
 
-Este projeto implementa a resolução de **Sistemas Lineares** pelo *método de Gauss-Jordan* em Python. 
+Este projeto implementa a resolução de **Sistemas Lineares** 2x2 e 3x3 em Python. 
 
 A ideia inicial surgiu durante minha graduação em matemática onde testei na prática a minha capacidade de resolver **Sistemas Lineares** e minhas habilidades em Excel.
 Sim, o projeto original foi feito no Excel em 2021. Agora em 2025, ele foi adaptado e aprimorado em Python como forma de desafio e aprendizado em linguagem de programação.
