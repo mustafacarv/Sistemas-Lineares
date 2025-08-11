@@ -74,7 +74,7 @@ else:
 	if d7 == d8 == 0 :
 		print('Este sistema possui infinitas soluções, logo é um sistema possível e indeterminado')
 	if d7 == 0 and d8 != 0:
-		print('Este é sistema impossível')
+		print('Este sistema não possui solução, logo é um sistema impossível')
 	else:
 		print('Este sistema possui uma solução, logo é um sistema possível e determinado. E estes são os valores para X, Y e Z:')
 		z = d8/d7
